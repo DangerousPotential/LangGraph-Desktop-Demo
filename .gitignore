@@ -2,3 +2,4 @@
 .venv/
 search_agent/.env
 .langgraph_api
+__pycache__
