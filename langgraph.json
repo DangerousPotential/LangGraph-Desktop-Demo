@@ -1,0 +1,11 @@
+{
+    "dependencies": [
+        "langchain_openai",
+        "./requirements.txt"
+    ],
+    "graphs": {
+        "graph": "./search_agent/graph.py:graph",
+        "scrape_graph": "./search_agent/drission_graph.py:graph"
+    },
+    "env": "./search_agent/.env"
+}

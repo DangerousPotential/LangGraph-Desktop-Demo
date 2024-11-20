@@ -1,0 +1,4 @@
+.env
+.venv/
+search_agent/.env
+.langgraph_api
